@@ -1,4 +1,4 @@
-import sys
+#!/usr/bin/env python3import sys
 if len(sys.argv) > 1:
     print("none")
  
